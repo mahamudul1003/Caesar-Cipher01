@@ -1,4 +1,4 @@
-Summary of the Caesar Cipher Python Code:
+## Summary of the Caesar Cipher Python Code:
 Caesar Cipher Function: The code defines a function called caesar_cipher() that performs encryption and decryption using the Caesar Cipher algorithm. This function takes three parameters:
 
 text: The message to be encrypted or decrypted.
@@ -9,5 +9,6 @@ Main Function (main()): The main() function is the entry point of the program. I
 Input and Output: The program interacts with the user through the console. It prompts the user to select encryption or decryption ('e' or 'd'), input the message, and input the shift value. After encryption or decryption, it displays the result to the user.
 
 
-Now, let's see an implementation example:
+## Now, let's see an implementation example:
 This implementation works as described earlier. It prompts the user for input, performs encryption or decryption based on the chosen mode, and displays the result. You can copy this code into a Python file (e.g., caesar_cipher.py) and run it to see the program in action.
+
